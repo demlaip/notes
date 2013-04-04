@@ -1,0 +1,7 @@
+Scenario:
+
+When we have a Production Instane and Fall-Off Instance for Emergency.
+
+So when First 10 Customers are putting their orders on Production, and if Production crashes after commiting 9th customer order and 10th customer order is in between.
+
+Then How to Maintain Consistency of Data between Production and Fall-Off Instance, which will allow Fall-Off instance to act as Production in state of Emergency.

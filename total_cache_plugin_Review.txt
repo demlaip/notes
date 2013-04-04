@@ -1,0 +1,16 @@
+W3 TOTAL CACHE PLUGIN REVIEW:
+
+Today !
+
+While setting up the woocommerce setup on wordpress. one of the lugin crashed my site.
+I found that plugin to be  "W3 TOTAL CACHE".
+Initially, it was not making tany trouble.
+But once I enable variuos options in its control panels like minify and some other performance paramters, it resulted in improper site and broke the front-end of site.
+Later on R&D I also found , this plugin has some major bugs from Security point of you.
+So, I Disabled all options in Plugin and Cleared All Caches by  "Empty All Cache" option from this plugin which resulted in Normal Working of that Site.
+
+So, one Thing Learned, "the Plugin which make changes to the core files of platform should be tested and Learned Before putting it on Production.
+And Performance of site increases drastically by scalling its base Servers which serve the Same site in Sufficient Bandwidths and its possible via CLOUD of AMAZON.
+
+However before that, we would also try SUPER CACHE PLUGIN to see its pros and cons.
+
